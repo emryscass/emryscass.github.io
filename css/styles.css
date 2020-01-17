@@ -1,0 +1,143 @@
+/**************TAGS***************/
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather;
+}
+
+h1 {
+  color: #1e836c;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: Dancing Script;
+}
+
+h2 {
+  color: #1e836c;
+  font-family: Public Sans;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #1e836c;
+  font-family: Public Sans;
+}
+
+hr {
+  border: dotted #918e86 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+
+/**************CLASSES***************/
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.anime {
+  width: 15%;
+  border-radius: 100%;
+  margin-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skills {
+  background-color: #e4f9f5;
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+}
+
+.python {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background:#1e836c;
+  border-radius:28px;
+  border:1px solid #18ab29;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family: Public Sans;
+  font-size:17px;
+  padding:16px 31px;
+  margin: 15px auto 75px auto;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #2f6627;
+}
+
+.btn:hover {
+  background: #056782;
+}
+
+.bottom-container {
+  background-color: #1e836c;
+  color: #EAF6F6;
+  padding: 50px 0 20px;
+}
+
+.final {
+  margin: 50px auto;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.footer-link {
+  color: #6acff7;
+  text-decoration: none;
+  margin: 35px;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+/**************IDs***************/
