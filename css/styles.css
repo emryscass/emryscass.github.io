@@ -110,6 +110,10 @@ p {
   background: #056782;
 }
 
+.frontandback {
+  font-weight: normal;
+}
+
 .bottom-container {
   background-color: #1e836c;
   color: #EAF6F6;
